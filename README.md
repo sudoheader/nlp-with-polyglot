@@ -53,3 +53,9 @@ time:
 
 The image contains a installation of the Jupyter notebook with R, Julia,
 Python2, Python3 and a couple of libraries for each language.
+
+## Read Index.ipynb to install all of the required software!
+
+## Credits
+
+* https://www.youtube.com/watch?v=qtMEp6WxwCQ
